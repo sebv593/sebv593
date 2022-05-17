@@ -1,5 +1,9 @@
 ### Welcome to my nerdy place 😎
 
+I'm a certified PMP and data-oriented Professional, passionate about Sports, Analytics and IoT technologies, with proven experience leading commercial and technical projects through a structured data-driven approach with the objective of solving problems, improve KPIs and add value. Highly experienced in translating technical insights to diverse backgrounds Government authorities, C-suite and customers by implementing user-friendly UX/UI methodologies. 
+
+Self-learner skilled in R, Python, SQL, BI Tools as Qlik, Power BI and Tableau, Big Data environments with Hadoop and Spark, and the Machine Learning platforms Dataiku and Azure Machine Learning.
+
 - 🔭 I’m currently working on Amazon in Spain leading the strategy definition and technical implementation of the data analytics platform architecture for my team (👀 no relation between what's published here and the company)
 - 🌱 I’m currently learning Cloud Data Architecture for Analytics in AWS
 - 📫 How to reach me??? ... 💬 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](sebastian.vasquez@alumni.ie.edu) related to electronics, telecommunications, iot, data (visualization, BI, engineering, architecture, automation, ETL/ELT, science), project management, financial analysis and technology services' sales
