@@ -1,8 +1,8 @@
 ### Welcome to my nerdy place 😎
 
-I'm a certified PMP and data-oriented Professional, passionate about Sports, Analytics and IoT technologies, with proven experience leading commercial and technical projects through a structured data-driven approach with the objective of solving problems, improve KPIs and add value. Highly experienced in translating technical insights to Government authorities, C-suite and customers with diverse backgrounds by implementing user-friendly UX/UI methodologies. 
+I'm a certified PMP, AWS Analytics Specialist & Cloud Practitioner, and data-oriented Professional, passionate about Sports, Analytics and IoT technologies, with proven experience leading commercial and technical projects through a structured data-driven approach with the objective of solving problems, improve KPIs and add value. Highly experienced in translating technical insights to Government authorities, C-suite and customers with diverse backgrounds by implementing user-friendly UX/UI methodologies. 
 
-Self-learner skilled in R, Python, SQL, BI Tools as Qlik, Power BI and Tableau, Big Data environments with Hadoop and Spark, and the Machine Learning platforms Dataiku and Azure Machine Learning.
+Self-learner skilled in AWS, Python, SQL, R, BI Tools as Qlik, Power BI and Tableau, Big Data environments with Hadoop and Spark, and the Machine Learning platforms Dataiku and Azure Machine Learning.
 
 - 🔭 I’m currently working on Amazon in Spain leading the strategy definition and technical implementation of the data analytics platform architecture for my team (👀 no relation between what's published here and the company)
 - 🌱 I’m currently learning Cloud Data Architecture for Analytics in AWS
