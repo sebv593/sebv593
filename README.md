@@ -1,8 +1,6 @@
 ### Welcome to my nerdy place 😎
 
-I'm a certified PMP, AWS Analytics Specialist & Cloud Practitioner, and data-oriented Professional, passionate about Sports, Analytics and IoT technologies, with proven experience leading commercial and technical projects through a structured data-driven approach with the objective of solving problems, improve KPIs and add value. Highly experienced in translating technical insights to Government authorities, C-suite and customers with diverse backgrounds by implementing user-friendly UX/UI methodologies. 
-
-Self-learner skilled in AWS, Python, SQL, R, BI Tools as Qlik, Power BI and Tableau, Big Data environments with Hadoop and Spark, and the Machine Learning platforms Dataiku and Azure Machine Learning.
+I'm a Certified PMP, AWS Analytics Specialist, Solutions Architect, and Cloud Practitioner passionate about Sports, Analytics and IoT technologies with a track record of both leading and developing tech and non-tech projects through a structured, data-driven approach, resulting in the automation of solutions for time optimization and cost-savings. Strong skills in data engineering, modeling, analysis, and visualization, as well as proficiency in Python, SQL, R, and various BI and machine learning tools. Skilled at effectively communicating complex solutions to any audience, including VP leadership and country authorities, using user-friendly UX/UI methodologies.
 
 - 🔭 I’m currently working on Amazon in Spain leading the strategy definition and technical implementation of the data analytics platform architecture for my team (👀 no relation between what's published here and the company)
 - 🌱 I’m currently learning Cloud Data Architecture for Analytics in AWS
@@ -13,4 +11,4 @@ Self-learner skilled in AWS, Python, SQL, R, BI Tools as Qlik, Power BI and Tabl
 - Cloud Platforms  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - Preferred IDEs  
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
