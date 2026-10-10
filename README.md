@@ -5,7 +5,7 @@ Data & analytics professional based in Madrid. PMP, AWS Analytics Specialty, Sol
 All content here is personal and unrelated to my employer.
 
 - 🌱 Learning: cloud data architecture for analytics on AWS
-- 🛠️ Projects: [etoro-taxdown-etl](https://github.com/sebv593/Coding-Projects-Public) (to be renamed): Python ETL from broker statements to a tax-filing CSV
+- 🛠️ Projects: [etoro-taxdown-etl](https://github.com/sebv593/etoro-taxdown-etl): Python ETL from broker statements to a tax-filing CSV
 - 💬 Connect: [LinkedIn](https://www.linkedin.com/in/sebv593/)
 
 **Tech:**
